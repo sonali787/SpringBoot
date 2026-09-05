@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build Output Directories
+target/
+**/target/
+build/
+**/build/
+htmlReport/
+**/htmlReport/
+
+# IDE Configuration
+.idea/
+**/.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+**/.vscode/
+.settings/
+.classpath
+.project
+
+# Maven wrapper temporary JARs
+.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
